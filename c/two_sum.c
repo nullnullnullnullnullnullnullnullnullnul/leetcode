@@ -1,5 +1,4 @@
 // https://leetcode.com/problems/two-sum/
-#include <stddef.h>
 #include <stdio.h>
 #include <stdlib.h>
 /**
